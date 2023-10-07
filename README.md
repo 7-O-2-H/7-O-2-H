@@ -1,5 +1,5 @@
-<div>
-
+<div align="center">
+  
 <div id="header" align="center">
   <img src="https://github.com/7-O-2-H/7-O-2-H/blob/main/Profile.png" width="100%"/>
 </div>
@@ -7,7 +7,7 @@
 <h1>JOSH KELLY</h1>
 <h2>FULL STACK DEVELOPER</h2>
 
-<div align="center">
+
 <a href="https://www.linkedin.com/in/josh-kelly-845640278/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
 
-</div>
+
 <div>
 <div></div>
 

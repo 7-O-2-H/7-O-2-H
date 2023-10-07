@@ -14,10 +14,8 @@
   <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-### :hammer_and_wrench: Languages and Tools :
-
 <div>
-  <h4>Languages</h4>
+  <h3>Languages</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
@@ -26,7 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 
-  <h4>Frameworks</h4>
+  <h3>Frameworks</h3>
   <img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" title="Ajax" alt="Ajax" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
@@ -36,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
 
-  <h4>Testing</h4>
+  <h3>Testing</h3>
   <img src="https://camo.githubusercontent.com/e54c4eff2a16c13b29cc44cd8720004611c517587b01296eeda4ca91e96759b8/68747470733a2f2f70372e6869636c69706172742e636f6d2f707265766965772f3632362f3234372f3736312f6d6f6368612d6a6176617363726970742d6e6f64652d6a732d746573742d64726976656e2d646576656c6f706d656e742d617373657274696f6e2d636861692d7368656e672e6a7067" title="Chai" alt="Chai" width="50" height="50"/>&nbsp;
   <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESlint" alt="ESlint" width="40" height="40"/>&nbsp;

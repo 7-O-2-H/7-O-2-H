@@ -14,4 +14,8 @@
   <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+### :hammer_and_wrench: Languages and Tools :
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
+
 </div>

@@ -49,5 +49,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
 
 </div>
-
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=7-O-2-H&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>

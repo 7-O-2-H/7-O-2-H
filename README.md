@@ -43,7 +43,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" title="RSpec" alt="RSpec" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" title="StoryBook" alt="StoryBook" width="50" height="50"/>&nbsp; 
 
-  <h4>Databases and Systems</h4>
+  <h3>Databases and Systems</h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;

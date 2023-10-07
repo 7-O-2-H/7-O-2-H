@@ -50,9 +50,11 @@
 
 </div>
 <div>
+<div></div>
 
-<div><div>
-  <h3>Stats</h3>
+  <h4>Stats</h4>
+  <div></div>
+
 
   <h2>Languages</h2>
   

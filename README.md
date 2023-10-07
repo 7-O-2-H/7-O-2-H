@@ -52,8 +52,13 @@
 <div>
 
   <h3>Stats</h3>
+
+  <h2>Languages</h2>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-O-2-H&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+  <h2>Github</h2>
+  
   [![Josh's Github Streak](http://github-readme-streak-stats.herokuapp.com?user=7-O-2-H&theme=dark&hide_border=true)](https://git.io/streak-stats)
     
 </div>

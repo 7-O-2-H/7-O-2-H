@@ -52,15 +52,15 @@
 <div>
 <div></div>
 
-  <h4>Stats</h4>
+  <h1>Stats</h1>
   <div></div>
 
 
-  <h2>Languages</h2>
+  <h3>Languages</h3>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-O-2-H&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <h2>Github</h2>
+  <h3>Github</h3>
   
   [![Josh's Github Streak](http://github-readme-streak-stats.herokuapp.com?user=7-O-2-H&theme=dark&hide_border=true)](https://git.io/streak-stats)
     

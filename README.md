@@ -49,9 +49,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PSQL" alt="PSQL" width="40" height="40"/>&nbsp;
 
 </div>
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-O-2-H&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Josh's Github Streak](http://github-readme-streak-stats.herokuapp.com?user=7-O-2-H&theme=dark&hide_border=true)](https://git.io/streak-stats)
+    
+</div>
 
-  
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=7-O-2-H&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-    [![Josh's Github Streak](http://github-readme-streak-stats.herokuapp.com?user=7-O-2-H&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>

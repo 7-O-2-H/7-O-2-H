@@ -51,7 +51,7 @@
 </div>
 <div>
 
-<div>----------------------------</div>
+<div><div>
   <h3>Stats</h3>
 
   <h2>Languages</h2>

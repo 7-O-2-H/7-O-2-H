@@ -38,7 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <div></div>
   <h3>Testing</h3>
-  <img src="https://camo.githubusercontent.com/e54c4eff2a16c13b29cc44cd8720004611c517587b01296eeda4ca91e96759b8/68747470733a2f2f70372e6869636c69706172742e636f6d2f707265766965772f3632362f3234372f3736312f6d6f6368612d6a6176617363726970742d6e6f64652d6a732d746573742d64726976656e2d646576656c6f706d656e742d617373657274696f6e2d636861692d7368656e672e6a7067" title="Chai" alt="Chai" width="50" height="50"/>&nbsp;
   <img src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s900-c-k-c0x00ffffff-no-rj" title="Cypress" alt="Cypress" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESlint" alt="ESlint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="50" height="50"/>&nbsp;
